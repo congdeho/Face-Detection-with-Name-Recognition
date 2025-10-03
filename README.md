@@ -24,7 +24,7 @@
 *Detailed attendance reports with charts and analytics*
 
 ### System Architecture
-![Architecture](assets/screenshots/system_architecture.png)
+![Architecture](assets/screenshots/training_interface)
 *Complete system architecture and data flow*
 
 </div>
