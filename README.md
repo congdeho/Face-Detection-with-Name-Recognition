@@ -7,6 +7,28 @@
 [![License](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![Status](https://img.shields.io/badge/Status-Production%20Ready-brightgreen.svg)]()
 
+## 🖼️ Screenshots
+
+<div align="center">
+
+### Student Management Dashboard  
+![Student Management](assets/screenshots/student_management.png)
+*Comprehensive student information management system*
+
+### Face Recognition in Action
+![Face Recognition](assets/screenshots/face_recognition.png)
+*Real-time face detection and recognition*
+
+### Attendance Reports
+![Reports](assets/screenshots/reports_dashboard.png)
+*Detailed attendance reports with charts and analytics*
+
+### System Architecture
+![Architecture](assets/screenshots/system_architecture.png)
+*Complete system architecture and data flow*
+
+</div>
+
 ## 🚀 Quick Start
 
 ```bash
