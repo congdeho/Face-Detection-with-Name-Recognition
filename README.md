@@ -184,16 +184,6 @@ If you get path errors, ensure this structure exists:
 └── src/gui/main_app.py
 ```
 
-## 📈 Development Roadmap
-
-- [ ] 🌐 Web-based dashboard
-- [ ] 📱 Mobile app companion
-- [ ] ☁️ Cloud storage integration
-- [ ] 🛡️ Advanced anti-spoofing
-- [ ] 🔄 Real-time synchronization
-- [ ] 📊 Advanced analytics dashboard
-- [ ] 🎨 Customizable themes
-- [ ] 🔗 API integration support
 
 ## 📄 License & Credits
 
@@ -225,7 +215,7 @@ python main.py
 
 ### 📞 Support & Contact
 
-- 📧 **Email**: developer@example.com  
+- 📧 **Email**: congdeho98@gmail.com
 - 💬 **Issues**: GitHub Issues Tab
 - 📖 **Documentation**: `docs/` folder
 - 🎓 **Tutorial**: `docs/Student_Attendance_System_Demo.ipynb`
