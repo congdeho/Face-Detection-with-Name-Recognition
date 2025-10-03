@@ -1,0 +1,24 @@
+# Student Attendance System - Required Python Packages
+# Hệ thống Điểm danh Học sinh - Các gói Python cần thiết
+
+# Core dependencies
+opencv-python>=4.5.0
+numpy>=1.21.0
+pillow>=8.0.0
+
+# Database and data processing
+pandas>=1.3.0
+openpyxl>=3.0.0
+
+# GUI framework (included with Python)
+# tkinter - comes with Python standard library
+
+# Visualization and reporting
+matplotlib>=3.5.0
+seaborn>=0.11.0
+
+# Optional: For enhanced performance
+# scikit-learn>=1.0.0
+
+# Development and testing (optional)
+# pytest>=6.0.0

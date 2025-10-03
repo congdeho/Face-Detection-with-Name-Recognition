@@ -1,0 +1,147 @@
+# Student Attendance System - Git Ignore File
+# ==========================================
+
+# Python
+# ------
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# PyInstaller
+*.manifest
+*.spec
+
+# Unit test / coverage reports
+htmlcov/
+.tox/
+.nox/
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+*.py,cover
+.hypothesis/
+.pytest_cache/
+cover/
+
+# Virtual environments
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# IDE
+# ---
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# System Files
+# ------------
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+*.tmp
+*.temp
+
+# Project Specific
+# ---------------
+# Training data (can be large)
+data/trainer/*.npy
+data/trainer/*.yml
+
+# Face dataset images (optional - comment out if you want to include sample images)
+# data/dataset/*.jpg
+# data/dataset/*.png
+
+# Database (optional - comment out if you want to include demo database)
+# data/*.db
+# data/*.sqlite
+# data/*.sqlite3
+
+# Reports output
+reports/*.xlsx
+reports/*.pdf
+reports/*.html
+
+# Logs
+logs/
+*.log
+
+# Temporary face recognition files
+temp_face_*.jpg
+temp_face_*.png
+
+# Model files (if using custom trained models)
+models/*.pkl
+models/*.h5
+models/*.pt
+models/*.pth
+models/*.onnx
+
+# Backup files
+*.bak
+*.backup
+*~
+
+# Configuration files with sensitive data (if any)
+config/secrets.py
+config/local_settings.py
+.env.local
+.env.production
+
+# OS generated files
+.directory
+.fuse_hidden*
+.nfs*
+
+# Archive files
+*.zip
+*.tar.gz
+*.rar
+*.7z
+
+# Demo and test files (optional)
+demo_output/
+test_output/
+screenshots/
+
+# Documentation build
+docs/_build/
+docs/build/
+
+# Profiling data
+.prof

@@ -1,0 +1,21 @@
+{
+  "name": "Student Attendance System",
+  "version": "1.0.0",
+  "description": "Face Recognition based Student Attendance System",
+  "author": "Your Name",
+  "license": "MIT",
+  "python_version": ">=3.7",
+  "main_entry": "main.py",
+  "structure": {
+    "src/": "Main application source code",
+    "docs/": "Documentation and tutorials",
+    "data/": "Face images and training data",
+    "scripts/": "Original standalone scripts",
+    "assets/": "Static assets (models, cascades)",
+    "config/": "Configuration files"
+  },
+  "quick_start": [
+    "pip install -r config/requirements.txt",
+    "python main.py"
+  ]
+}
